@@ -1,7 +1,7 @@
 {
 "type": "FeatureCollection",
 "name": "Lieux_touristique",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2154" } },
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
 "features": [
 { "type": "Feature", "properties": { "id": 1, "libelle": "Ploumanac'h", "date_visit": "2025-04-27", "Dep": "22", "Region": "Bretagne", "Categorie": "Villes", "Sous_cat": "51", "Comment": "Visite du centre du village - balade sentier côtier", "Meteo": "Soleil", "LONG": -387962.204, "LAT": 6246355.507, "Visite": "OUI", "nom_officiel": "Perros-Guirec" }, "geometry": { "type": "Point", "coordinates": [ -387962.203751442662906, 6246355.506857556290925 ] } },
 { "type": "Feature", "properties": { "id": 2, "libelle": "Sept-îles", "date_visit": "2025-04-27", "Dep": "22", "Region": "Bretagne", "Categorie": "Littoral", "Sous_cat": "14", "Comment": "Croisière au départ de Perros-Guirec - 45min pour le tour des 7 îles", "Meteo": "Nuage", "LONG": -388519.481, "LAT": 6254294.849, "Visite": "OUI", "nom_officiel": "Perros-Guirec" }, "geometry": { "type": "Point", "coordinates": [ -388519.480932864185888, 6254294.849102209322155 ] } },
